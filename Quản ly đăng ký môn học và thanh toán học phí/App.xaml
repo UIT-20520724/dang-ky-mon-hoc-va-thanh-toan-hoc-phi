@@ -1,0 +1,9 @@
+﻿<Application x:Class="Quản_ly_đăng_ký_môn_học_và_thanh_toán_học_phí.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Quản_ly_đăng_ký_môn_học_và_thanh_toán_học_phí"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
